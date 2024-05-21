@@ -5,6 +5,7 @@ I'm an NLP specialist: I combine my background in linguistics with data science 
 - Accommodation model: Computational simulation the phonetic accommodation (imitation) process happening in natural language conversations ([Python codebase](https://github.com/szaboildi/accommodation-model))
 - Transcribed Corpus Tools: A [Python toolkit](https://github.com/szaboildi/transcribed-corpus-tools) for creating and analyzing phonological corpora
 
+In my free time, I like to learn about force-free dog training principles, engage in some casual analysis of video game design or make pottery.
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
