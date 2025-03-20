@@ -1,6 +1,7 @@
 ## Hi!
 
-I'm an NLP specialist, combining my background in linguistics with data science tools and a decade of experience in programming. You can find some of my past projects here:
+I'm an NLP specialist, combining my background in linguistics with data science tools and a decade of experience in programming. You can find some of my past and ongoing projects here:
+- A RAG project in progress to query WHO guidelines (implemented in Qdrant and Haystack): You can find the code [here](https://github.com/szaboildi/rag-who).
 - UK Political Speech Classifier: 7-way classification of UK parliamentary speeches by party. You can find the backend (Pyhton package with dockerized FastAPI) [here](https://github.com/szaboildi/uk-pol-speech-classifier) and the frontend [here](https://github.com/szaboildi/uk-pol-speech-classifier-frontend).
 - Accommodation model: Computational simulation the phonetic accommodation (imitation) process happening in natural language conversations ([Python codebase](https://github.com/szaboildi/accommodation-model))
 - Transcribed Corpus Tools: A [Python toolkit](https://github.com/szaboildi/transcribed-corpus-tools) for creating and analyzing phonological corpora
